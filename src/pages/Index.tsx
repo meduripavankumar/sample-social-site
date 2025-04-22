@@ -31,7 +31,7 @@ const posts = [
       name: 'Michael Chen',
       title: 'Software Engineer at Tech Innovations',
     },
-    content: 'Excited to announce that after 3 months of hard work, we've finally launched our new product! It's been an amazing journey with the team. \n\nCheck it out at example.com',
+    content: "Excited to announce that after 3 months of hard work, we've finally launched our new product! It's been an amazing journey with the team. \n\nCheck it out at example.com",
     likes: 89,
     comments: 15,
     shares: 11,
